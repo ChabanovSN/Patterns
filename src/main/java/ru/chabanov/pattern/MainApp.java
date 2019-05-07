@@ -3,7 +3,7 @@ package ru.chabanov.pattern;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class MainApp {
     private static List<String> list = Arrays.asList("Новости о погоде", "Новости о работе");
 
     public static void main(String[] args) {
